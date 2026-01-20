@@ -1,3 +1,5 @@
+<<<<<<< HEAD
+
 # ChatBot
 
 ## Installation & Setup
